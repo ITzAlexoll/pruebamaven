@@ -27,6 +27,8 @@
     </dependency>
   </dependencies>
 
+<!-- Faltan las dependencias que te mande,  aqui solo hay una de JUnit -->
+
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
